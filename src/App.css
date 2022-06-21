@@ -32,7 +32,203 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+.outCircle {
+  display: flex;
+  gap: 1em;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: center;
+  align-items: center;
+  margin: 1em 0px;
+}
+
+.firtsCircle {
+  width: 200px;
+  height: 200px;
+  border-radius: 3em;
+  -webkit-box-shadow: 44px 49px 29px -13px #00000087;
+  -moz-box-shadow: 44px 49px 29px -13px #00000087;
+  box-shadow: 44px 49px 29px -13px #00000087;
+}
+
+.Circle1 {
+  background-image: linear-gradient(135deg, #F761A1 10%, #8C1BAB 100%);
+}
+
+.Circle2 {
+  background-image: linear-gradient(135deg, #5EFCE8 10%, #736EFE 100%);
+}
+
+.Circle3 {
+  background-image: linear-gradient(135deg, #A0FE65 10%, #FA016D 100%);
+}
+
+.Circle4 {
+  background-image: linear-gradient(135deg, #92FFC0 10%, #002661 100%);
+}
+
+.Circle5 {
+  background-image: linear-gradient(135deg, #EEAD92 10%, #6018DC 100%);
+}
+
+.Circle6 {
+  background-image: linear-gradient(135deg, #FFF720 10%, #3CD500 100%);
+}
+
+.Circle7 {
+  background-image: linear-gradient(135deg, #EE9AE5 10%, #5961F9 100%);
+}
+
+.Circle8 {
+  background-image: linear-gradient(135deg, #81FFEF 10%, #F067B4 100%);
+}
+
+.Circle9 {
+  background-image: linear-gradient(to top, #ff0844 0%, #ffb199 100%);
+}
+
+.Circle10 {
+  background-image: linear-gradient(to right, #92fe9d 0%, #00c9ff 100%);
+}
+
+.Circle11 {
+  background-image: linear-gradient(-20deg, #b721ff 0%, #21d4fd 100%);
+}
+
+.Circle12 {
+  background-image: linear-gradient(-20deg, #6e45e2 0%, #88d3ce 100%);
+}
+
+.Circle13 {
+  background-image: linear-gradient(60deg, #abecd6 0%, #fbed96 100%);
+}
+
+.Circle14 {
+  background-image: linear-gradient(to top, #5f72bd 0%, #9b23ea 100%);
+}
+
+.Circle15 {
+  background-image: linear-gradient(to top, #09203f 0%, #537895 100%);
+}
+
+.Circle16 {
+  background-image: linear-gradient(to top, #4481eb 0%, #04befe 100%);
+}
+
+.Circle17 {
+  background-image: linear-gradient(to top, #e8198b 0%, #c7eafd 100%);
+}
+
+.Circle18 {
+  background-image: linear-gradient(to top, #cc208e 0%, #6713d2 100%);
+}
+
+.Circle19 {
+  background-image: linear-gradient(to top, #b3ffab 0%, #12fff7 100%);
+}
+
+.Circle20 {
+  background-image: linear-gradient(-45deg, #FFC796 0%, #FF6B95 100%);
+}
+
+.Circle21 {
+  background-image: linear-gradient(-20deg, #fc6076 0%, #ff9a44 100%);
+}
+
+.Circle22 {
+  background-image: linear-gradient(to right, #0acffe 0%, #495aff 100%);
+}
+
+.Circle23 {
+  background-image: linear-gradient(60deg, #3d3393 0%, #2b76b9 37%, #2cacd1 65%, #35eb93 100%);
+}
+
+.Circle24 {
+  background-image: linear-gradient(to right, #ed6ea0 0%, #ec8c69 100%);
+}
+
+.Circle25 {
+  background-image: linear-gradient(to top, #b224ef 0%, #7579ff 100%);
+}
+
+.Circle26 {
+  background-image: linear-gradient(to top, #007adf 0%, #00ecbc 100%);
+}
+
+.Circle27 {
+  background-image: linear-gradient(-225deg, #20E2D7 0%, #F9FEA5 100%);
+}
+
+.Circle28 {
+  background-image: linear-gradient(-225deg, #2CD8D5 0%, #6B8DD6 48%, #8E37D7 100%);
+}
+
+.Circle29 {
+  background-image: linear-gradient(-225deg, #DFFFCD 0%, #90F9C4 48%, #39F3BB 100%);
+}
+
+.Circle30 {
+  background-image: linear-gradient(-225deg, #FFE29F 0%, #FFA99F 48%, #FF719A 100%);
+}
+
+.Circle31 {
+  background-image: linear-gradient(-225deg, #22E1FF 0%, #1D8FE1 48%, #625EB1 100%);
+}
+
+.Circle32 {
+  background-image: linear-gradient(-225deg, #B6CEE8 0%, #F578DC 100%);
+}
+
+.Circle33 {
+  background-image: linear-gradient(-225deg, #B7F8DB 0%, #50A7C2 100%);
+}
+
+.Circle34 {
+  background-image: linear-gradient(-225deg, #77FFD2 0%, #6297DB 48%, #1EECFF 100%);
+}
+
+.Circle35 {
+  background-image: linear-gradient(-225deg, #AC32E4 0%, #7918F2 48%, #4801FF 100%);
+}
+
+.Circle36 {
+  background-image: linear-gradient(-225deg, #D4FFEC 0%, #57F2CC 48%, #4596FB 100%);
+}
+
+.Circle37 {
+  background-image: linear-gradient(-225deg, #9EFBD3 0%, #57E9F2 48%, #45D4FB 100%);
+}
+
+.Circle38 {
+  background-image: linear-gradient(-225deg, #473B7B 0%, #3584A7 51%, #30D2BE 100%);
+}
+
+.Circle39 {
+  background-image: linear-gradient(-225deg, #65379B 0%, #886AEA 53%, #6457C6 100%);
+}
+
+.Circle40 {
+  background-image: linear-gradient(-225deg, #A445B2 0%, #D41872 52%, #FF0066 100%);
+}
+
+.Circle41 {
+  background-image: linear-gradient(-225deg, #7742B2 0%, #F180FF 52%, #FD8BD9 100%);
+}
+
+.Circle42 {
+  background-image: linear-gradient(-225deg, #FF057C 0%, #8D0B93 50%, #321575 100%);
+}
+
+.Circle43 {
+  background-image: linear-gradient(-225deg, #69EACB 0%, #EACCF8 48%, #6654F1 100%);
+}
+
+.Circle44 {
+  background-image: linear-gradient(-225deg, #231557 0%, #44107A 29%, #FF1361 67%, #FFF800 100%);
 }
